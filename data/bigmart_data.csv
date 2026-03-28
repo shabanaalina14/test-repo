@@ -1,0 +1,6 @@
+item_weight,item_mrp,outlet_size,outlet_location,item_type,sales
+10,150,Small,Tier1,Food,2000
+12,200,Medium,Tier2,Non-Food,2500
+8,120,Small,Tier1,Food,1800
+15,300,Large,Tier3,Electronics,4000
+11,220,Medium,Tier2,Food,2700
